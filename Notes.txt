@@ -1,0 +1,14 @@
+GitHub Repo:
+-----------
+
+https://github.com/kelhelw/image-filter-starter-code/  with 2 branches master and dev
+
+
+EB endpoint URL:
+----------------
+http://image-filter-starter-code-dev.us-west-2.elasticbeanstalk.com/
+
+
+
+
+
